@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mihapham.com" resolutions="1x" timestamp="1514401436528">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mihapham.com" resolutions="1x" timestamp="1514402910393">
   <folder name="css">
     <file name="site_global.css" crc="247685815"/>
-    <file name="index.css" crc="3923589693" ref="index"/>
+    <file name="index.css" crc="348392194" ref="index"/>
     <file name="nomq_index.css" crc="250609637" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -190,5 +190,5 @@
     <file name="viralfest-4_mini-u3070-fr4.jpg" crc="196185688" ref="index"/>
     <file name="text-u4586-fr8.png" crc="3822422394" ref="index"/>
   </folder>
-  <file name="index.html" crc="3949473831" seo="true" mt="1514401336447" redirect="true"/>
+  <file name="index.html" crc="346586864" seo="true" mt="1514402751465" redirect="true"/>
 </manifest>
