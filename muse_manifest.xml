@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mihapham.com" resolutions="1x" timestamp="1514397351071">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mihapham.com" resolutions="1x" timestamp="1514401436528">
   <folder name="css">
     <file name="site_global.css" crc="247685815"/>
-    <file name="index.css" crc="282751378" ref="index"/>
-    <file name="nomq_index.css" crc="3831903715" ref="index"/>
+    <file name="index.css" crc="3923589693" ref="index"/>
+    <file name="nomq_index.css" crc="250609637" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -114,81 +114,81 @@
     <file name="bannerfinal-u379-fr.jpg" crc="133893743" ref="index"/>
     <file name="text-u4586-fr3.png" crc="425197406" ref="index"/>
     <file name="backgroundstar-u2821-fr3.png" crc="3871245415" ref="index"/>
-    <file name="screen shot 2017-12-22 at 103629-u2014-fr3.jpg" crc="3988767518" ref="index"/>
+    <file name="screen shot 2017-12-22 at 103629-u2014-fr3.jpg" crc="109338352" ref="index"/>
     <file name="04-u1885-fr2.png" crc="513350425" ref="index"/>
     <file name="03-u2478-fr2.png" crc="4120178911" ref="index"/>
-    <file name="screen shot 2017-12-22 at 102309-u2480-fr3.jpg" crc="162719529" ref="index"/>
-    <file name="screen shot 2017-12-22 at 103536-u2642-fr3.jpg" crc="4133659620" ref="index"/>
+    <file name="screen shot 2017-12-22 at 102309-u2480-fr3.jpg" crc="3868536074" ref="index"/>
+    <file name="screen shot 2017-12-22 at 103536-u2642-fr3.jpg" crc="4000382883" ref="index"/>
     <file name="02-u2645-fr2.png" crc="328747220" ref="index"/>
-    <file name="screen shot 2017-12-22 at 102338-u2564-fr3.jpg" crc="434330227" ref="index"/>
+    <file name="screen shot 2017-12-22 at 102338-u2564-fr3.jpg" crc="3780336793" ref="index"/>
     <file name="05-u2567-fr2.png" crc="3775475996" ref="index"/>
     <file name="01-u2723-fr2.png" crc="4028666002" ref="index"/>
-    <file name="screen shot 2017-12-22 at 102408-u2720-fr3.jpg" crc="4107009179" ref="index"/>
+    <file name="screen shot 2017-12-22 at 102408-u2720-fr3.jpg" crc="64142989" ref="index"/>
     <file name="bannerfinal-u379-fr2.jpg" crc="220612857" ref="index"/>
     <file name="text-u4586-fr4.png" crc="164860368" ref="index"/>
     <file name="backgroundstar-u2821-fr4.png" crc="510936276" ref="index"/>
-    <file name="screen shot 2017-12-22 at 103629-u2014-fr4.jpg" crc="4281141606" ref="index"/>
+    <file name="screen shot 2017-12-22 at 103629-u2014-fr4.jpg" crc="4060743768" ref="index"/>
     <file name="04-u1885-fr3.png" crc="4017998724" ref="index"/>
     <file name="03-u2478-fr3.png" crc="486610721" ref="index"/>
-    <file name="screen shot 2017-12-22 at 102309-u2480-fr4.jpg" crc="3939617256" ref="index"/>
+    <file name="screen shot 2017-12-22 at 102309-u2480-fr4.jpg" crc="424829029" ref="index"/>
     <file name="backgroundstar-u2863-fr.jpg" crc="3942810005" ref="index"/>
     <file name="backgroundstar-u2881-fr.jpg" crc="4085109190" ref="index"/>
-    <file name="screen shot 2017-12-22 at 102338-u2564-fr4.jpg" crc="4147415450" ref="index"/>
+    <file name="screen shot 2017-12-22 at 102338-u2564-fr4.jpg" crc="216122209" ref="index"/>
     <file name="05-u2567-fr3.png" crc="3786668167" ref="index"/>
-    <file name="screen shot 2017-12-22 at 103536-u2642-fr4.jpg" crc="419166969" ref="index"/>
+    <file name="screen shot 2017-12-22 at 103536-u2642-fr4.jpg" crc="455787794" ref="index"/>
     <file name="02-u2645-fr3.png" crc="2974593" ref="index"/>
     <file name="01-u2723-fr3.png" crc="93960139" ref="index"/>
-    <file name="screen shot 2017-12-22 at 102408-u2720-fr4.jpg" crc="419095287" ref="index"/>
+    <file name="screen shot 2017-12-22 at 102408-u2720-fr4.jpg" crc="239518670" ref="index"/>
     <file name="bannerfinal-u379-fr3.jpg" crc="52797795" ref="index"/>
     <file name="text-u4586-fr5.png" crc="24559755" ref="index"/>
-    <file name="screen shot 2017-12-22 at 103629-u2014-fr5.jpg" crc="62662064" ref="index"/>
+    <file name="screen shot 2017-12-22 at 103629-u2014-fr5.jpg" crc="447571683" ref="index"/>
     <file name="04-u1885-fr4.png" crc="4248840893" ref="index"/>
     <file name="03-u2478-fr4.png" crc="4176450147" ref="index"/>
-    <file name="screen shot 2017-12-22 at 102309-u2480-fr5.jpg" crc="45458819" ref="index"/>
+    <file name="screen shot 2017-12-22 at 102309-u2480-fr5.jpg" crc="4133416426" ref="index"/>
     <file name="05-u2567-fr4.png" crc="3914950837" ref="index"/>
-    <file name="screen shot 2017-12-22 at 102338-u2564-fr5.jpg" crc="3815558653" ref="index"/>
+    <file name="screen shot 2017-12-22 at 102338-u2564-fr5.jpg" crc="3941609861" ref="index"/>
     <file name="02-u2645-fr4.png" crc="4033344023" ref="index"/>
-    <file name="screen shot 2017-12-22 at 103536-u2642-fr5.jpg" crc="210798851" ref="index"/>
+    <file name="screen shot 2017-12-22 at 103536-u2642-fr5.jpg" crc="278268113" ref="index"/>
     <file name="01-u2723-fr4.png" crc="4174603591" ref="index"/>
-    <file name="screen shot 2017-12-22 at 102408-u2720-fr5.jpg" crc="361442288" ref="index"/>
+    <file name="screen shot 2017-12-22 at 102408-u2720-fr5.jpg" crc="3980839650" ref="index"/>
     <file name="bannerfinal-u379-fr4.jpg" crc="3885508867" ref="index"/>
     <file name="text-u4586-fr6.png" crc="3991966387" ref="index"/>
-    <file name="screen shot 2017-12-22 at 103629-u2014-fr6.jpg" crc="3872993558" ref="index"/>
+    <file name="screen shot 2017-12-22 at 103629-u2014-fr6.jpg" crc="339461162" ref="index"/>
     <file name="04-u1885-fr5.png" crc="3951099149" ref="index"/>
-    <file name="screen shot 2017-12-22 at 102309-u2480-fr6.jpg" crc="3796933952" ref="index"/>
+    <file name="screen shot 2017-12-22 at 102309-u2480-fr6.jpg" crc="4029796083" ref="index"/>
     <file name="03-u2478-fr5.png" crc="182923341" ref="index"/>
-    <file name="screen shot 2017-12-22 at 102338-u2564-fr6.jpg" crc="98563406" ref="index"/>
+    <file name="screen shot 2017-12-22 at 102338-u2564-fr6.jpg" crc="367027294" ref="index"/>
     <file name="05-u2567-fr5.png" crc="226230780" ref="index"/>
-    <file name="screen shot 2017-12-22 at 103536-u2642-fr6.jpg" crc="4009544805" ref="index"/>
+    <file name="screen shot 2017-12-22 at 103536-u2642-fr6.jpg" crc="186246564" ref="index"/>
     <file name="02-u2645-fr5.png" crc="4145942963" ref="index"/>
     <file name="01-u2723-fr5.png" crc="3812183341" ref="index"/>
-    <file name="screen shot 2017-12-22 at 102408-u2720-fr6.jpg" crc="4200755477" ref="index"/>
+    <file name="screen shot 2017-12-22 at 102408-u2720-fr6.jpg" crc="126072622" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="bannerfinal-u379-fr5.jpg" crc="3790612213" ref="index"/>
     <file name="text-u4586-fr7.png" crc="96783139" ref="index"/>
-    <file name="screen shot 2017-12-22 at 103629-u2014-fr7.jpg" crc="4227242817" ref="index"/>
+    <file name="screen shot 2017-12-22 at 103629-u2014-fr7.jpg" crc="4282643807" ref="index"/>
     <file name="04-u1885-fr6.png" crc="3898959835" ref="index"/>
-    <file name="screen shot 2017-12-22 at 102309-u2480-fr7.jpg" crc="189805969" ref="index"/>
+    <file name="screen shot 2017-12-22 at 102309-u2480-fr7.jpg" crc="4200168539" ref="index"/>
     <file name="03-u2478-fr6.png" crc="196747193" ref="index"/>
-    <file name="screen shot 2017-12-22 at 102338-u2564-fr7.jpg" crc="16449096" ref="index"/>
+    <file name="screen shot 2017-12-22 at 102338-u2564-fr7.jpg" crc="482253104" ref="index"/>
     <file name="05-u2567-fr6.png" crc="4050829114" ref="index"/>
-    <file name="screen shot 2017-12-22 at 103536-u2642-fr7.jpg" crc="179896007" ref="index"/>
+    <file name="screen shot 2017-12-22 at 103536-u2642-fr7.jpg" crc="4237477660" ref="index"/>
     <file name="02-u2645-fr6.png" crc="298927827" ref="index"/>
     <file name="01-u2723-fr6.png" crc="4069927781" ref="index"/>
-    <file name="screen shot 2017-12-22 at 102408-u2720-fr7.jpg" crc="3937632481" ref="index"/>
+    <file name="screen shot 2017-12-22 at 102408-u2720-fr7.jpg" crc="4261836340" ref="index"/>
     <file name="bannerfinal-u379-fr6.jpg" crc="4247303608" ref="index"/>
-    <file name="screen shot 2017-12-22 at 103629-u2014-fr8.jpg" crc="4275918309" ref="index"/>
+    <file name="screen shot 2017-12-22 at 103629-u2014-fr8.jpg" crc="4249527311" ref="index"/>
     <file name="04-u1885-fr7.png" crc="352905563" ref="index"/>
-    <file name="screen shot 2017-12-22 at 102309-u2480-fr8.jpg" crc="31628042" ref="index"/>
+    <file name="screen shot 2017-12-22 at 102309-u2480-fr8.jpg" crc="3857801357" ref="index"/>
     <file name="03-u2478-fr7.png" crc="48876362" ref="index"/>
-    <file name="screen shot 2017-12-22 at 102338-u2564-fr8.jpg" crc="3790533643" ref="index"/>
+    <file name="screen shot 2017-12-22 at 102338-u2564-fr8.jpg" crc="452424335" ref="index"/>
     <file name="05-u2567-fr7.png" crc="502870089" ref="index"/>
-    <file name="screen shot 2017-12-22 at 103536-u2642-fr8.jpg" crc="24049611" ref="index"/>
+    <file name="screen shot 2017-12-22 at 103536-u2642-fr8.jpg" crc="3969522914" ref="index"/>
     <file name="02-u2645-fr7.png" crc="204373998" ref="index"/>
     <file name="01-u2723-fr7.png" crc="37206025" ref="index"/>
-    <file name="screen shot 2017-12-22 at 102408-u2720-fr8.jpg" crc="439787953" ref="index"/>
+    <file name="screen shot 2017-12-22 at 102408-u2720-fr8.jpg" crc="3825200433" ref="index"/>
     <file name="viralfest-4_mini-u3070-fr4.jpg" crc="196185688" ref="index"/>
     <file name="text-u4586-fr8.png" crc="3822422394" ref="index"/>
   </folder>
-  <file name="index.html" crc="418990901" seo="true" mt="1514396699932" redirect="true"/>
+  <file name="index.html" crc="3949473831" seo="true" mt="1514401336447" redirect="true"/>
 </manifest>
