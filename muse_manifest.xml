@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mihapham.com" resolutions="1x" timestamp="1514460096822">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mihapham.com" resolutions="1x" timestamp="1514460729059">
   <folder name="css">
     <file name="site_global.css" crc="247685815"/>
-    <file name="index.css" crc="314494428" ref="index"/>
+    <file name="index.css" crc="3945035409" ref="index"/>
     <file name="nomq_index.css" crc="3763774074" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -190,5 +190,5 @@
     <file name="02-u2645-fr9.png" crc="75893016" ref="index"/>
     <file name="01-u2723-fr9.png" crc="4128282581" ref="index"/>
   </folder>
-  <file name="index.html" crc="160653680" seo="true" mt="1514459942262" redirect="true"/>
+  <file name="index.html" crc="4121999139" seo="true" mt="1514460653529" redirect="true"/>
 </manifest>
